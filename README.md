@@ -32,10 +32,14 @@ The script is designed for cluster environments (e.g., PBS / HPC clusters) where
 ## Output Format
 
 ### Directory Structure
+```
+
 BASE_DIR/
 └── YYYY-MM-DD/
 └── HH:00_to_HH+1:00/
 └── <node>.csv
+
+```
 
 ## Requirements
 - Linux OS
